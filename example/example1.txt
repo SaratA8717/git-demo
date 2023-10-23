@@ -1,1 +1,1 @@
-This is Example for Staging area
+This is Example for merge conflicts
