@@ -1,1 +1,2 @@
 This is Example for merge conflicts
+This is Example for dev2 demo
